@@ -42,11 +42,11 @@ I worked with multiple international clients and in multiple distributed but tig
 <p float="left">
    <a href="https://nodejs.org/docs" target="_blank" >
     <img src="https://raw.githubusercontent.com/pravinjadhav7/pravinjadhav7/master/assets/node.gif" height="80" />
-  </a> &nbsp;&nbsp;&nbsp;&nbsp;
+  </a> &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;
   
   <a href="https://learn.microsoft.com/en-us/dotnet/csharp/?WT.mc_id=dotnet-35129-website" target="_blank" >
     <img src="https://raw.githubusercontent.com/pravinjadhav7/pravinjadhav7/master/assets/dotnet.png" height="80" />
-  </a> &nbsp;&nbsp;&nbsp;&nbsp; 
+  </a> &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;
   
   <a href="https://www.python.org/doc/e" target="_blank" >
     <img src="https://raw.githubusercontent.com/pravinjadhav7/pravinjadhav7/master/assets/python.webp" height="80" />

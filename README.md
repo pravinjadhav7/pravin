@@ -98,6 +98,10 @@ I worked with multiple international clients and in multiple distributed but tig
 
 
 
+### 📫 How to reach me? 
 
+  ⦿ Connect with me on [LinkedIn](https://www.linkedin.com/in/pravin-jadhav-02b97ba2/) 👨🏻‍💻 <br>
+  ⦿ Shoot Me an [Email](mailto:pravinjadhav762@gmail.com) 💌 <br>
+  ⦿ Mobile 📲 +91-8208153625
 
 

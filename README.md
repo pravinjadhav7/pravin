@@ -88,7 +88,7 @@ I worked with multiple international clients and in multiple distributed but tig
   </a> &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;
   
   <a href="/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/pravinjadhav7/pravinjadhav7/master/assets/dynamo.png" height="80" />
+    <img src="https://raw.githubusercontent.com/pravinjadhav7/pravinjadhav7/master/assets/dynamo.webp" height="80" />
   </a> &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;  
   
   <a href="/" target="_blank" >

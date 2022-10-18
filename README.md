@@ -21,6 +21,11 @@ I worked with multiple international clients and in multiple distributed but tig
   <a href="https://reactjs.org/" target="_blank" >
     <img src="https://raw.githubusercontent.com/pravinjadhav7/pravinjadhav7/master/assets/reactjs.gif" height="80" />
   </a>
+  
+  <a href="https://www.typescriptlang.org/docs/handbook/react.html" target="_blank" >
+    <img src="https://raw.githubusercontent.com/pravinjadhav7/pravinjadhav7/master/assets/tsreact.webp" height="80" />
+  </a>
+  
    <a href="https://www.w3.org/wiki/The_web_standards_model_-_HTML_CSS_and_JavaScript" target="_blank" >
     <img src="https://raw.githubusercontent.com/pravinjadhav7/pravinjadhav7/master/assets/html-css-js.png" height="70" />
   </a>

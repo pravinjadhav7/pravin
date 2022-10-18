@@ -19,7 +19,7 @@ I worked with multiple international clients and in multiple distributed but tig
 ### Front-End
 <p float="left">
   <a href="https://reactjs.org/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/pravinjadhav7/pravinjadhav7/master/assets/reactjs.gif" height="100" />
+    <img src="https://raw.githubusercontent.com/pravinjadhav7/pravinjadhav7/master/assets/reactjs.gif" height="80" />
   </a>
    <a href="https://www.w3.org/wiki/The_web_standards_model_-_HTML_CSS_and_JavaScript" target="_blank" >
     <img src="https://raw.githubusercontent.com/pravinjadhav7/pravinjadhav7/master/assets/html-css-js.png" height="70" />

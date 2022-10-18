@@ -76,7 +76,7 @@ I worked with multiple international clients and in multiple distributed but tig
 
 <p float="left">
      <a href="/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/pravinjadhav7/pravinjadhav7/master/assets/mongodb.gif" height="80" />
+    <img src="https://raw.githubusercontent.com/pravinjadhav7/pravinjadhav7/master/assets/mongo.gif" height="80" />
   </a> &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;
   
   <a href="/" target="_blank" >

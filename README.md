@@ -23,4 +23,7 @@ I worked with multiple international clients and in multiple distributed but tig
   <a href="https://www.w3.org/wiki/The_web_standards_model_-_HTML_CSS_and_JavaScript" target="_blank" >
     <img src="https://raw.githubusercontent.com/pravinjadhav7/pravinjadhav7/master/assets/bootstrap.gif" height="75" />
   </a>
+  <a href="https://www.w3.org/wiki/The_web_standards_model_-_HTML_CSS_and_JavaScript" target="_blank" >
+    <img src="https://raw.githubusercontent.com/pravinjadhav7/pravinjadhav7/master/assets/material-ui.png" height="75" />
+  </a> 
 </p>

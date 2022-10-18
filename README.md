@@ -16,7 +16,7 @@ I worked with multiple international clients and in multiple distributed but tig
 
 ## Skills
 
-### Front-End
+### Front-End Technology’s 
 <p float="left">
   <a href="https://reactjs.org/" target="_blank" >
     <img src="https://raw.githubusercontent.com/pravinjadhav7/pravinjadhav7/master/assets/reactjs.gif" height="80" />
@@ -38,7 +38,7 @@ I worked with multiple international clients and in multiple distributed but tig
 </p>
 
 
-### Back-End
+### Back-End Technology’s
 <p float="left">
    <a href="https://nodejs.org/docs" target="_blank" >
     <img src="https://raw.githubusercontent.com/pravinjadhav7/pravinjadhav7/master/assets/node.gif" height="80" />
@@ -55,7 +55,7 @@ I worked with multiple international clients and in multiple distributed but tig
 </p>
 
 
-### Cloud
+### Cloud Platforms
 
 <p float="left">
      <a href="/" target="_blank" >
@@ -72,7 +72,7 @@ I worked with multiple international clients and in multiple distributed but tig
 </p>
 
 
-### Database
+### Databases
 
 <p float="left">
      <a href="/" target="_blank" >

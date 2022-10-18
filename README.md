@@ -53,3 +53,51 @@ I worked with multiple international clients and in multiple distributed but tig
   </a> &nbsp;&nbsp;&nbsp;&nbsp;   
   
 </p>
+
+
+### Cloud
+
+<p float="left">
+     <a href="/" target="_blank" >
+    <img src="https://raw.githubusercontent.com/pravinjadhav7/pravinjadhav7/master/assets/aws.gif" height="80" />
+  </a> &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;
+  
+  <a href="/" target="_blank" >
+    <img src="https://raw.githubusercontent.com/pravinjadhav7/pravinjadhav7/master/assets/azure.gif" height="80" />
+  </a> &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;
+  
+  <a href="/" target="_blank" >
+    <img src="https://raw.githubusercontent.com/pravinjadhav7/pravinjadhav7/master/assets/google.gif" height="80" />
+  </a> &nbsp;&nbsp;&nbsp;&nbsp; 
+</p>
+
+
+### Database
+
+<p float="left">
+     <a href="/" target="_blank" >
+    <img src="https://raw.githubusercontent.com/pravinjadhav7/pravinjadhav7/master/assets/mongodb.gif" height="80" />
+  </a> &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;
+  
+  <a href="/" target="_blank" >
+    <img src="https://raw.githubusercontent.com/pravinjadhav7/pravinjadhav7/master/assets/mysql.gif" height="80" />
+  </a> &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;
+
+  <a href="/" target="_blank" >
+    <img src="https://raw.githubusercontent.com/pravinjadhav7/pravinjadhav7/master/assets/sql.png" height="80" />
+  </a> &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;
+  
+  <a href="/" target="_blank" >
+    <img src="https://raw.githubusercontent.com/pravinjadhav7/pravinjadhav7/master/assets/dynamo.png" height="80" />
+  </a> &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;  
+  
+  <a href="/" target="_blank" >
+    <img src="https://raw.githubusercontent.com/pravinjadhav7/pravinjadhav7/master/assets/cosmos.png" height="80" />
+  </a> &nbsp;&nbsp;&nbsp;&nbsp; 
+</p>
+
+
+
+
+
+

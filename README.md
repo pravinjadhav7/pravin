@@ -10,3 +10,5 @@ I am [Pravin](https://www.linkedin.com/in/pravin-jadhav-02b97ba2/), a passionate
 ![Pravin's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=pravinjadhav7&layout=compact&show_icons=true&theme=onedark) 
 
 Over 6 years working as Full-Stack Developer of progressive IT experience and a track record of superior results. Possesses significant troubleshooting, problem-solving and React, Node and AWS infrastructure expertise. Having a strong knowledge of projects and customers management. I am rigorous person, organized and attentive to the client and the team. I try to do my best for each project, and go beyond my skills and expand my knowledge.
+
+I worked with multiple international clients and in multiple distributed but tight-knit teams that span multiple continents across the globe. I am Fully-committed to designing and developing innovative materials. I am highly self-motivated, enthusiastic and always willing to learn more. 

@@ -24,7 +24,7 @@ I worked with multiple international clients and in multiple distributed but tig
 
   <a href="https://angular.io/" target="_blank" >
     <img src="https://raw.githubusercontent.com/pravinjadhav7/pravinjadhav7/master/assets/angular.gif" height="80" />
-  </a> &nbsp;&nbsp;&nbsp;&nbsp;
+  </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   
   <a href="https://www.typescriptlang.org/docs/handbook/react.html" target="_blank" >
     <img src="https://raw.githubusercontent.com/pravinjadhav7/pravinjadhav7/master/assets/type.png" height="80" />

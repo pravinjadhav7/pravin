@@ -22,7 +22,7 @@ I worked with multiple international clients and in multiple distributed but tig
     <img src="https://raw.githubusercontent.com/pravinjadhav7/pravinjadhav7/master/assets/reactjs.gif" height="80" />
   </a> &nbsp;&nbsp;&nbsp;&nbsp;
 
-    <a href="https://reactjs.org/" target="_blank" >
+  <a href="https://angular.io/" target="_blank" >
     <img src="https://raw.githubusercontent.com/pravinjadhav7/pravinjadhav7/master/assets/angular.gif" height="80" />
   </a> &nbsp;&nbsp;&nbsp;&nbsp;
   

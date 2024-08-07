@@ -9,9 +9,9 @@ I am [Pravin](https://www.linkedin.com/in/pravin-jadhav-02b97ba2/), a passionate
 ![Pravin's github stats](https://github-readme-stats.vercel.app/api?username=pravinjadhav7&hide=issues&show_icons=true&theme=onedark) 
 ![Pravin's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=pravinjadhav7&layout=compact&show_icons=true&theme=onedark) 
 
-Over 6.5+ years working as Full-Stack Developer of progressive IT experience and a track record of superior results. Possesses significant troubleshooting, problem-solving and React, Node and AWS infrastructure expertise. Having a strong knowledge of projects and customers management. I am rigorous person, organized and attentive to the client and the team. I try to do my best for each project, and go beyond my skills and expand my knowledge.
+With over 7.9 years of experience as a Lead Software Developer, I have a proven track record of delivering superior results in the IT industry. My expertise includes troubleshooting, problem-solving, and advanced skills in React, Node.js, and AWS infrastructure. I have a strong background in managing projects and clients, and I am known for being rigorous, organized, and attentive to both client needs and team dynamics. I strive to exceed expectations for every project and am committed to expanding my knowledge and skills continually.
 
-I worked with multiple international clients and in multiple distributed but tight-knit teams that span multiple continents across the globe. I am Fully-committed to designing and developing innovative materials. I am highly self-motivated, enthusiastic and always willing to learn more. 
+I have collaborated with multiple international clients and worked in distributed, tight-knit teams across various continents. My commitment to designing and developing innovative solutions drives me to stay highly motivated and enthusiastic, always eager to learn and adapt to new challenges.
 
 
 ## Skills
